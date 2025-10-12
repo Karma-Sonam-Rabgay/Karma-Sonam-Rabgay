@@ -5,7 +5,7 @@
 💡 Passionate about creating intelligent systems that make a real-world impact  
 🚀 Constantly learning, building, and experimenting with **AI-driven applications** 
 
-![Neural Network](https://media.giphy.com/media/xT5LMHxhOfscxPfIfm/giphy.gif)
+![AI Bot](https://media.giphy.com/media/l41YtZOb9EUABnuqA/giphy.gif)
 
 ## 💬 Contact me here!  
 - 📫 Email: karmasonam070@gmail.com
