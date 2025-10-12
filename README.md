@@ -5,7 +5,7 @@
 💡 Passionate about creating intelligent systems that make a real-world impact  
 🚀 Constantly learning, building, and experimenting with **AI-driven applications** 
 
-![Tic-Tac-Toe Animation](https://media.giphy.com/media/3ohc0W57smqMZgBlU4/giphy.gif)
+![Retro Game](https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif)
 
 ## 💬 Contact me here!  
 - 📫 Email: karmasonam070@gmail.com
