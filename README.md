@@ -5,8 +5,6 @@
 💡 Passionate about creating intelligent systems that make a real-world impact  
 🚀 Constantly learning, building, and experimenting with **AI-driven applications** 
 
-![Retro Game](https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif)
-
 ## 💬 Contact me here!  
 - 📫 Email: karmasonam070@gmail.com
 
