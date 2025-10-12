@@ -7,13 +7,6 @@
 
 ## 💬 Contact me here!  
 - 📫 Email: karmasonam070@gmail.com
-  
-## 📈 GitHub Stats & Activity  
-![Karma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KarmaSonam&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KarmaSonam&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com?user=KarmaSonam&theme=tokyonight&hide_border=true)  
-
----
 
 ## 🌌 Contribution Graph  
 ![Karma’s GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KarmaSonam&theme=tokyo-night)
