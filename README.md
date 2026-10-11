@@ -8,9 +8,6 @@
 ## 💬 Contact me here!  
 - 📫 Email: karmasonam070@gmail.com
 
-## 🌌 Contribution Graph  
-![Karma’s GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KarmaSonam&theme=tokyo-night)
-
 ---
 
 ## 🧠 Languages and Tools  
