@@ -1,6 +1,4 @@
- <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Karma%20Sonam%20Rabgay&fontSize=38&color=0:0f2027,50:203a43,100:2c5364&fontColor=ffffff&stroke=36BCF7&strokeWidth=1&animation=twinkling&desc=Computer%20Science%20%7C%20Software%20Development&descSize=16&descAlignY=70" width="100%" alt="Animated profile banner"/>
+<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Turning+ideas+into+code;Building+and+learning+every+day;Exploring+new+technologies;Always+working+to+improve" alt="Animated typing text"/>
 
