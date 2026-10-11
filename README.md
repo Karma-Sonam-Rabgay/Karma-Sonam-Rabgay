@@ -44,8 +44,9 @@ I'm a Computer Science and Engineering graduate from **North South University** 
 ### `connect` 🌐
 
 <p align="center">
-<a href="mailto:karmasonam070@gmail.com"><img src="https://img.shields.io/badge/Email-36BCF7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://github.com/Karmaaa7"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="mailto:karmasonam070@gmail.com"><img src="https://img.shields.io/badge/Email-36BCF7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/Karmaaa7"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://my-portfolio-orcin-tau-88.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 <p align="center">
