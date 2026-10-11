@@ -17,13 +17,13 @@ I'm a Computer Science and Engineering graduate from **North South University** 
 - 🧩 Enjoy solving problems and improving my coding skills.
 - ⚡ Believe in learning by building and experimenting.
 
-### `tech --stack` 🛠️
+### `tech stack` 🛠️
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,php,html,css,mysql,git,github,vscode&perline=6" alt="Programming languages and developer tools"/>
 </p>
 
-### `github --stats` 📊
+### `github stats` 📊
 
 <p align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Karmaaa7&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
@@ -32,6 +32,15 @@ I'm a Computer Science and Engineering graduate from **North South University** 
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=Karmaaa7&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+</p>
+
+### `contributions` 🐍
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Karmaaa7/Karmaaa7/output/github-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/Karmaaa7/Karmaaa7/output/github-snake.svg" alt="Snake eating my contributions"/>
+</picture>
 </p>
 
 ### `connect` 🌐
