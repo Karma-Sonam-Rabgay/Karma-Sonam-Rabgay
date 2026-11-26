@@ -24,7 +24,7 @@ I'm a Computer Science and Engineering graduate from **North South University** 
 ### `github stats` 📊
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Karmaaa7&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Karma-Sonam-Rabgay&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karmaaa7&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
 </p>
 
