@@ -25,19 +25,19 @@ I'm a Computer Science and Engineering graduate from **North South University** 
 
 <p align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Karma-Sonam-Rabgay&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karmaaa7&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karma-Sonam-Rabgay&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Karmaaa7&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+<img src="https://streak-stats.demolab.com?user=Karma-Sonam-Rabgay&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 </p>
 
 ### `contributions` 🐍
 
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Karmaaa7/Karmaaa7/output/github-snake-dark.svg"/>
-  <img src="https://raw.githubusercontent.com/Karmaaa7/Karmaaa7/output/github-snake.svg" alt="Snake eating my contributions"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Karma-Sonam-Rabgay/Karma-Sonam-Rabgay/output/github-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/Karma-Sonam-Rabgay/Karma-Sonam-Rabgay/output/github-snake.svg" alt="Snake eating my contributions"/>
 </picture>
 </p>
 
@@ -45,7 +45,7 @@ I'm a Computer Science and Engineering graduate from **North South University** 
 
 <p align="center">
   <a href="mailto:karmasonam070@gmail.com"><img src="https://img.shields.io/badge/Email-36BCF7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/Karmaaa7"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://github.com/Karma-Sonam-Rabgay"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://my-portfolio-orcin-tau-88.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 </p>
 
